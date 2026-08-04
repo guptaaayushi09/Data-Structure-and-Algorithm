@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Tree
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 ## Prefix Sum
 |  |
@@ -105,9 +107,11 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
