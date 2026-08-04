@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0337-house-robber-iii) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
 | [0655-print-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0655-print-binary-tree) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0337-house-robber-iii) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
 | [0655-print-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0655-print-binary-tree) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0655-print-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0655-print-binary-tree) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0337-house-robber-iii) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
 | [0655-print-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0655-print-binary-tree) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Dynamic Programming
 |  |
