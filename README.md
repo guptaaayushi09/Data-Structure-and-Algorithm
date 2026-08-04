@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 ## Prefix Sum
 |  |
@@ -102,5 +104,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
