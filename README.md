@@ -81,9 +81,26 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 | [1214-two-sum-bsts](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1214-two-sum-bsts) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1214-two-sum-bsts](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1214-two-sum-bsts) |
+## Array
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
+## Math
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
+## Prefix Sum
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
