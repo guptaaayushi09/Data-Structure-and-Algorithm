@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0337-house-robber-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0337-house-robber-iii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 ## DP on Trees
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
