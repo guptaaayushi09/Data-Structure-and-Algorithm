@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
