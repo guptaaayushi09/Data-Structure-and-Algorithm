@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
 ## Two Pointers
 |  |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0180-consecutive-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
