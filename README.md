@@ -91,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1214-two-sum-bsts](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1214-two-sum-bsts) |
 ## Binary Search
 |  |
