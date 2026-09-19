@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1214-two-sum-bsts](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1214-two-sum-bsts) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
