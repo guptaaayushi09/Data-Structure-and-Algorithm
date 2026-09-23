@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [2126-destroying-asteroids](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2126-destroying-asteroids) |
 | [3731-find-missing-elements](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2126-destroying-asteroids](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2126-destroying-asteroids) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
