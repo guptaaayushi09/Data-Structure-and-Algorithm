@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 | [0735-asteroid-collision](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
