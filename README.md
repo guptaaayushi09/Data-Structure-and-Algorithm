@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0337-house-robber-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
+| [0115-distinct-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
