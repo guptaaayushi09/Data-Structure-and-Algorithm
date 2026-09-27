@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
