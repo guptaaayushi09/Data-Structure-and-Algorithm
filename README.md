@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2126-destroying-asteroids](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2126-destroying-asteroids) |
 | [3731-find-missing-elements](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Merge Sort
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1079-letter-tile-possibilities) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1079-letter-tile-possibilities) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2126-destroying-asteroids](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2126-destroying-asteroids) |
 ## Monotonic Stack
 |  |
