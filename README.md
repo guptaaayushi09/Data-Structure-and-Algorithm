@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0382-linked-list-random-node) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
@@ -230,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
