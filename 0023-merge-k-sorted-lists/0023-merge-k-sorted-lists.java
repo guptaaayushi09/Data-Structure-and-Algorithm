@@ -10,24 +10,24 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        //minHeap of K size with index(K) and move node to next and check if not null push to queue else not 
-        //end case? ->end the heap 
-        int k = lists.length;
-        PriorityQueue<Pair<Integer,ListNode>> minHeap = new PriorityQueue<>((a,b) -> a.getKey()-b.getKey());
-        for(ListNode list: lists){
-            if(list != null)
-            minHeap.offer(new Pair<>(list.val,list));
+        int n = lists.length;
+        if(lists == null || lists.length == 0) return null;
+        PriorityQueue<ListNode> minHeap = new PriorityQueue<>((a,b)-> a.val -b.val);
+        for(ListNode node: lists){
+            if(node != null){
+                minHeap.offer(node);
+            }
         }
-       ListNode dummy = new ListNode(-1);
-       ListNode head = dummy;
+        ListNode dummy = new ListNode(-1);
+        ListNode head = dummy;
         while(!minHeap.isEmpty()){
-         ListNode insertionNode = minHeap.peek().getValue();
-           head.next = insertionNode;
-           head = head.next;
+            ListNode insertionNode =minHeap.poll();
+            head.next = insertionNode;
+            head = head.next;
+            if(insertionNode.next != null){
+                minHeap.offer(insertionNode.next);
+            }
 
-           minHeap.poll();
-           if(insertionNode.next != null)
-           minHeap.offer(new Pair<>(insertionNode.next.val,insertionNode.next ));
         }
         return dummy.next;
     }
