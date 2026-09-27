@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
 | [0735-asteroid-collision](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 ## Simulation
 |  |
