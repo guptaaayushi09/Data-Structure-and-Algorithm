@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1079-letter-tile-possibilities) |
