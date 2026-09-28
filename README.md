@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0398-random-pick-index) |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1079-letter-tile-possibilities) |
 ## Trie
 |  |
