@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1079-letter-tile-possibilities) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2351-first-letter-to-appear-twice](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1079-letter-tile-possibilities](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1079-letter-tile-possibilities) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2351-first-letter-to-appear-twice](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+| [2351-first-letter-to-appear-twice](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1079-letter-tile-possibilities) |
+| [2351-first-letter-to-appear-twice](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
