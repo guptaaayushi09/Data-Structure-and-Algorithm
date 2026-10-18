@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0337-house-robber-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0337-house-robber-iii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
