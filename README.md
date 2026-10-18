@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2351-first-letter-to-appear-twice](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3026-maximum-good-subarray-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3026-maximum-good-subarray-sum) |
 | [3731-find-missing-elements](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2126-destroying-asteroids) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3026-maximum-good-subarray-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3026-maximum-good-subarray-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Math
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
+| [3026-maximum-good-subarray-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3026-maximum-good-subarray-sum) |
 ## Randomized
 |  |
 | ------- |
