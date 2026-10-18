@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
 | [0735-asteroid-collision](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1214-two-sum-bsts](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1214-two-sum-bsts) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Backtracking
 |  |
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
