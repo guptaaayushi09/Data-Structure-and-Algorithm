@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [1214-two-sum-bsts](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1214-two-sum-bsts) |
 ## Divide and Conquer
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2126-destroying-asteroids](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2126-destroying-asteroids) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -291,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
