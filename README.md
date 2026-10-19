@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
