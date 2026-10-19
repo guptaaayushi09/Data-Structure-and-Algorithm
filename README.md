@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
