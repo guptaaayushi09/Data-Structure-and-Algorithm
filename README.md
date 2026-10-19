@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0398-random-pick-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 | [0735-asteroid-collision](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 ## Database
 |  |
 | ------- |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
 ## Heap (Priority Queue)
 |  |
@@ -299,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
