@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
