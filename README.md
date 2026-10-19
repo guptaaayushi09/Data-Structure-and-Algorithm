@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0536-construct-binary-tree-from-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0536-construct-binary-tree-from-string) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Backtracking
