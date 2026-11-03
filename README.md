@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 | [0792-number-of-matching-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0792-number-of-matching-subsequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 | [0735-asteroid-collision](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
