@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2289-steps-to-make-array-non-decreasing](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3026-maximum-good-subarray-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3026-maximum-good-subarray-sum) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Math
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [2351-first-letter-to-appear-twice](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/2351-first-letter-to-appear-twice) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Design
 |  |
 | ------- |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 <!---LeetCode Topics End-->
