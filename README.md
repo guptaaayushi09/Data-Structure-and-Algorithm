@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
+| [0072-edit-distance](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
