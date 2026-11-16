@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/0528-random-pick-with-weight) |
 | [3026-maximum-good-subarray-sum](https://github.com/guptaaayushi09/Data-Structure-and-Algorithm/tree/master/3026-maximum-good-subarray-sum) |
 ## Randomized
